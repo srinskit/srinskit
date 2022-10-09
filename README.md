@@ -1,4 +1,4 @@
-# Srinag Rao S
+# Srinag Rao
 
 ## Education
 ### B.Tech from NITK, Surathkal
