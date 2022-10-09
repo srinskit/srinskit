@@ -62,10 +62,10 @@ I developed [Velocity Raptor](https://github.com/srinskit/Velocity_Raptor), an a
 ## Extracurriculars & Awards
 
 ### Singapore India Hackathon, 2018
-My team was among the 20 teams representing India in the Singapore India Hackathon 2018 held at NTU, Singapore. We presented an RFID-based IoT campus security and monitoring system, powered by [Rach](#1-Rach-Communication-module-for-IoT).
+My team was among the 20 teams representing India in the Singapore India Hackathon 2018 held at NTU, Singapore. We presented an RFID-based IoT campus security and monitoring system, powered by [Rach](#rach---communication-module-for-iot).
 
 ### Smart India Hackathon, 2018
-My team won second place at Smart India Hackathon 2018 at BITS-KNL for Witty Lights, an IoT street lighting and monitoring system for smart cities, powered by [Rach](#1-Rach-Communication-module-for-IoT).
+My team won second place at Smart India Hackathon 2018 at BITS-KNL for Witty Lights, an IoT street lighting and monitoring system for smart cities, powered by [Rach](#rach---communication-module-for-iot).
 
 ### Tronix Committee
 The Tronix Committee hosts displays, workshops and robotics competitions at NITK’s Technical Fest “Engineer”. As a member of the core team, I developed a web portal for event announcements and registration. In addition to overseeing projects, I proposed and led a new project to display the game of Atari Breakout on a large custom LED matrix.
