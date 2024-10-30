@@ -4,11 +4,11 @@
 ## Education
 
 ### University of Wisconsin–Madison
-Master of Science in Computer Science\
+#### Master of Science in Computer Science
 Research: Performant Data Engine for Recursive Datalog Programs
 
 ### National Institute of Technology Karnataka, Surathkal
-Bachelor of Technology in Information Technology\
+#### Bachelor of Technology in Information Technology
 GPA: 8.82/10
 
 ## Interests & Skills
