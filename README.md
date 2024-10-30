@@ -4,7 +4,8 @@
 ## Education
 
 ### University of Wisconsin–Madison
-Master of Science in Computer Science
+Master of Science in Computer Science\
+Research: Performant Data Engine for Recursive Datalog Programs
 
 ### National Institute of Technology Karnataka, Surathkal
 Bachelor of Technology in Information Technology\
@@ -35,20 +36,20 @@ _January 2021 - May 2021_
 * Worked on live-migrating JavaScript routines across IoT home appliances to enable compute sharing.
 
 ### Indian Institute of Science
-Intern/
+Intern\
 _June 2020 - December 2020_
 
 * Contributed to an [open-source](https://github.com/datakaveri) project facilitating data exchange in smart cities, by developing a containerized
 and clustered data pipeline using Elasticsearch, Logstash, and RabbitMQ.
 
 ### Morgan Stanley
-Summer Intern/
+Summer Intern\
 _May 2019 - July 2019_
 
 * Developed a chatbot to assist engineers in monitoring DevOps pipelines and deployments.
   
 ### Indian Institute of Science
-Summer Intern/
+Summer Intern\
 _May 2018 - July 2018_
 
 * Developed [MudBoxer](https://github.com/srinskit/MudBoxer), a transparent security wrapper for ROS, by injecting a shared library to intercept C++
